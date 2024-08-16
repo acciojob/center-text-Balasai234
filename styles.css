@@ -1,7 +1,9 @@
 /*  your css code here. If applicable */
-#back{
-	text-align: center;
+#back {
+    text-align: center;
     color: white;
-    background-image: url('https://www.globalfocusmagazine.com/wp-content/uploads/2020/02/Engaging_with_technology-scaled.jpg')
-	
+    background-image: url('https://www.globalfocusmagazine.com/wp-content/uploads/2020/02/Engaging_with_technology-scaled.jpg');
+    background-size: cover; /* Ensures the background image covers the element */
+    background-position: center; /* Centers the background image */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
 }
