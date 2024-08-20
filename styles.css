@@ -2,7 +2,7 @@
 :root{
 	 background-image: url('https://www.globalfocusmagazine.com/wp-content/uploads/2020/02/Engaging_with_technology-scaled.jpg');
 	padding:auto;
-	color:rgba(0, 0, 0, 0);
+	background-color:rgba(0, 0, 0, 0);
 	box-sizing: border-box;
 }
     
